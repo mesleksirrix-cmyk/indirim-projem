@@ -1,0 +1,5 @@
+supabase
+selenium
+webdriver-manager
+requests
+beautifulsoup4
